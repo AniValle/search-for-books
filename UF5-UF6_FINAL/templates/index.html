@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/styles.css') }}">
+    <title>Libreria</title>
+</head>
+<body>
+    
+
+    <h1>Libreria Bridgerton</h1>
+
+        <div class="gallery">
+            {% for image in imagelist %}
+            <img width="140 px" height="200 px" src = "{{ url_for('static', filename=image)}}">
+            {% endfor %}
+        </div>
+
+    <div>
+        <form action = "http://localhost:5000" method = "post">
+           <input name="searchBook" type="text" class="search" placeholder="Que libro estas buscando?">
+           <input type="submit" class="searchSubmit" alt="submit"/>
+        </form>
+        
+    </div>
+
+    
+    <div>
+        <h3>Tus Libros</h3>
+        <div>
+            {% for elem in libros%}
+                <p><b>{{elem}}</b></p>
+            {% endfor %}
+        </div>
+         <a class="botton" href="/"> Atras </a>
+    </div>
+
+</body>
+</html>

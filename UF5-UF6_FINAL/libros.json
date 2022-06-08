@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "titulo": "EL Duque y Yo",
+        "precio": 14.00,
+        "descripcion": "Daphne, una hermosa joven agobiada por su madre, y Simon, el huraño nuevo duque de Hastings, tenían el mismo problema: la continua presión para que encontraran pareja. Al conocerse, se les ocurrió el plan perfecto: fingir un compromiso que los liberara de más agobios."
+    }
+    ,
+    {
+        "id": 2,
+        "titulo": "El Vizconde que me amó",
+        "precio": 14.00,
+        "descripcion": "Anthony Bridgerton tenía clara una cosa en su vida: que no viviría más años que los que vivió su padre, muerto antes de los cuarenta. Por eso ha decidido vivir su juventud intensamente, sin comprometerse a un amor que quedaría bruscamente interrumpido."
+    }
+    ,
+    {
+        "id": 3,
+        "titulo": "Te doy mi corazón",
+        "precio": 14.00,
+        "descripcion": "Sophie vivió una infancia extraña. Todos sabían que era hija del conde de Penwood y, aunque éste nunca la reconoció como tal, cuidó de que no le faltara nada. Todo cambió cuando su padre se casó de nuevo, y la madrastra y sus dos hijas hicieron de la vida de Sophie una pesadilla."
+    }
+    ,
+    {
+        "id": 4,
+        "titulo": "Seduciendo a MR. Bridgerton",
+        "precio": 14.00,
+        "descripcion": "Sin saber bien cómo, el menor de los Bridgerton descubre a una mujer inteligente, sensible, audaz... y muy atractiva. Durante años se han conocido casi como hermanos, y de repente se dan cuenta de que no saben nada el uno del otro."
+    }
+    ,
+    {
+        "id": 5,
+        "titulo": "A Sir Phillip, con amor",
+        "precio": 14.00,
+        "descripcion": "Es posible enamorarse de alguien a quien no has visto nunca? Eloise, la pequeña de la familia Bridgerton, está a punto de descubrirlo. Hasta que se casó Penélope, su íntima amiga, no había sentido sobre sus delicados hombros el peso de la soltería."
+    }
+    ,
+    {
+        "id": 6,
+        "titulo": "El corazón de una Bridgerton",
+        "precio": 14.00,
+        "descripcion": "El día que conoció a Francesca Bridgerton, Michael probó por primera vez el dulce sabor del amor y el amargo gusto de la desesperación. Porque ella era la única de las muchas mujeres que había conocido que le inspiraba auténtica pasión, pero era también la mujer de su primo John, al que quería más que a un hermano."
+    }
+    ,
+    {
+        "id": 7,
+        "titulo": "Por un Beso",
+        "precio": 14.00,
+        "descripcion": "Hyacint, la última hija soltera de la familia Bridgerton, ha perdido la ilusión por las temporadas de baile en Londres. Aunque es joven y hermosa y pertenece a una familia muy admirada, su ágil inteligencia, su lengua descarada y su fuerte carácter parecen ahuyentar a todos los pretendientes."
+    }
+    ,
+    {
+        "id": 8,
+        "titulo": "Buscando Esposa",
+        "precio":14.00,
+        "descripcion": "El último Bridgerton soltero ha empezado la búsqueda de la mujer de sus sueños. Es el único de los hermanos que no ha pasado por el altar y, por su carácter romántico, jamás aceptaría un matrimonio por conveniencia."
+    }
+]
