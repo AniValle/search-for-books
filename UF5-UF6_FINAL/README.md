@@ -40,6 +40,7 @@ contiene 3 funciones
 - Carpeta **version-beta**
     *app fallida -> fichero .py con una app que no me funcionó.
     *database -> dos ficheros para crear bases de datos de forma diferente.
+    
         1. crear_database.py
             Contiene funciones para
                 * crear base de datos
