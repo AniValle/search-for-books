@@ -36,19 +36,3 @@ contiene 3 funciones
     * Función para importar el .json
     * Función para convertis tipo.
 
-
-- Carpeta **version-beta**
-    *app fallida -> fichero .py con una app que no me funcionó.
-    *database -> dos ficheros para crear bases de datos de forma diferente.
-    
-    * Crear_database.py
-            Contiene funciones para
-                * crear base de datos
-                * crear la tabla
-                * insertar filas.
-                * buscar datos.
-                * actualizar datos.
-                * eliminar datos.
-
-     * Crear_database_limpia.py
-            * Funciones para crear bases de datos, tabla, insertar filas con exepciones.
