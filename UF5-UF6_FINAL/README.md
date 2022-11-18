@@ -41,7 +41,7 @@ contiene 3 funciones
     *app fallida -> fichero .py con una app que no me funcionó.
     *database -> dos ficheros para crear bases de datos de forma diferente.
     
-        1. crear_database.py
+    * Crear_database.py
             Contiene funciones para
                 * crear base de datos
                 * crear la tabla
@@ -50,5 +50,5 @@ contiene 3 funciones
                 * actualizar datos.
                 * eliminar datos.
 
-        2. crear_database_limpia.py
+     * Crear_database_limpia.py
             * Funciones para crear bases de datos, tabla, insertar filas con exepciones.
